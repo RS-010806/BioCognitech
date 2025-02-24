@@ -3,6 +3,7 @@
 # Overview
 
 This repository contains an AI/ML-based breast cancer image recognition model. A mammogram is an x-ray picture of the breast. It can be used to check for breast cancer in women who have no signs or symptoms of the disease. It can also be used if you have a lump or other sign of breast cancer. Now while its difficult to figure out for physicians by seeing only images of x-ray that weather the tumor is toxic or not training a machine learning model for the identification of tumour can be of great help. The model leverages ResNet, CNNs, and an advanced data augmentation pipeline to classify medical images with high precision.
+
 ![image](https://github.com/user-attachments/assets/0cd0c0ba-80d5-45eb-b4f3-2955f4c6e1e7)
 
 # Features
@@ -31,7 +32,7 @@ Ensure you have Python installed (recommended version: 3.8+). Install dependenci
 
 pip install -r requirements.txt
 
-Training the Model
+# Training the Model
 
 To train the model, execute:
 
@@ -43,9 +44,9 @@ To evaluate the trained model, run:
 
 python evaluate.py
 
-Predicting on New Images
+# Predicting on New Images
 
-# To classify new images using the trained model, use:
+To classify new images using the trained model, use:
 
 python predict.py --image path/to/image.jpg
 
