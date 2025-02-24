@@ -2,12 +2,12 @@
 
 Overview
 
-This repository contains an AI/ML-based breast cancer image recognition model developed for the Research Forge Hackathon at Invictus, DTU, where our team secured 2nd place. The model leverages DenseNet, CNNs, and an advanced data augmentation pipeline to classify medical images with high precision.
+This repository contains an AI/ML-based breast cancer image recognition model developed for the Research Forge Hackathon at Invictus, DTU, where our team secured 2nd place. The model leverages ResNet, CNNs, and an advanced data augmentation pipeline to classify medical images with high precision.
 ![image](https://github.com/user-attachments/assets/0cd0c0ba-80d5-45eb-b4f3-2955f4c6e1e7)
 
 Features
 
-Deep Learning Model: Utilizes DenseNet for feature extraction and classification.
+Deep Learning Model: Utilizes ResNet18 architecture for feature extraction and classification.
 
 Advanced Data Augmentation: Includes resizing, flipping, rotation, and color jittering to enhance training.
 
@@ -63,39 +63,13 @@ Batch Size: 32.
 
 Epochs: 50.
 
-Performance
-
-Metric
-
-Score (%)
-
-Accuracy
-
-XX.XX
-
-Precision
-
-XX.XX
-
-Recall
-
-XX.XX
-
-F1 Score
-
-XX.XX
-
 Team
 
 This project was developed by:
-
-[Teammate 1]
-
-[Teammate 2]
-
-[Teammate 3]
-
-[Your Name]
+Rishi Shah
+Saksham Chaabra
+Shivaay Dhondiyaal
+Shubhank Gupta
 
 Achievements
 
@@ -123,6 +97,6 @@ Contributions are welcome! Feel free to submit issues or pull requests to enhanc
 
 Contact
 
-For any queries, please reach out to [Your Email] or connect via LinkedIn.
+For any queries, please reach out to rishishah010806@gmail.com or connect via LinkedIn: https://www.linkedin.com/in/r1shi-shah/.
 
 
