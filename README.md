@@ -3,6 +3,7 @@
 Overview
 
 This repository contains an AI/ML-based breast cancer image recognition model developed for the Research Forge Hackathon at Invictus, DTU, where our team secured 2nd place. The model leverages DenseNet, CNNs, and an advanced data augmentation pipeline to classify medical images with high precision.
+![image](https://github.com/user-attachments/assets/0cd0c0ba-80d5-45eb-b4f3-2955f4c6e1e7)
 
 Features
 
